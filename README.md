@@ -10,7 +10,7 @@ A recent graduate with a Bachelor's degree in Computer Science and a passion for
 - HTML
 - CSS
 - JavaScript
-- -MySql
+- MySql
 - PHP
 - Laravel
 - Knowledge of Git and version control
